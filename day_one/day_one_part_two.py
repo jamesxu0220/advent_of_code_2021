@@ -11,5 +11,5 @@ def day_one_solution_two():
         cur_sum = new_sum
     return res
     
-print(day_one_solution_two())
-## Output is 1704
+# print(day_one_solution_two())
+# Output is 1704

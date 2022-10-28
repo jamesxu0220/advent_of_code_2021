@@ -14,5 +14,5 @@ def day_one_solution_one():
             res += 1
     return res
     
-print(day_one_solution_one())
-## Output is 1681
+# print(day_one_solution_one())
+# Output is 1681
